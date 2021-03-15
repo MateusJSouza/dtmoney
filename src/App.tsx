@@ -8,7 +8,10 @@ const Title = styled.h1`
 export function App() {
   return (
     <div className="App">
-      <Title>Hello World</Title>
+      <Title>
+        Hello World
+        <button>Salvar</button>
+      </Title>
     </div>
   );
 }
