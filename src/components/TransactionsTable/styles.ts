@@ -18,15 +18,15 @@ export const Container = styled.div`
     td {
       padding: 1rem 2rem;
       border: 0;
-      background: var(--shape);
+      background: var(--background);
       color: var(--text-body);
       border-radius: 0.25rem;
 
       &:first-child {
-        background: var(--text-title);
+        color: var(--text-title);
       }
 
-      &.deposity {
+      &.deposit {
         color: var(--green);
       }
 
