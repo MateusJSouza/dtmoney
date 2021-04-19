@@ -40,7 +40,7 @@
 </p>
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dx3vxwusq/image/upload/v1614534587/moveit3_tcemai.gif" alt="Gif da aplicação rodando">
+  <img src="https://res.cloudinary.com/dx3vxwusq/image/upload/v1618870594/dtmoney_snzvvq.gif" alt="Gif da aplicação rodando">
 </p>
 
 <p align="center">
