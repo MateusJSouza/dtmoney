@@ -1,5 +1,5 @@
 <p align=center>
-  <img src="https://res.cloudinary.com/dx3vxwusq/image/upload/v1614534243/favicon_nkkpiq.png" alt="Logo move-it">
+  <img src="https://res.cloudinary.com/dx3vxwusq/image/upload/v1618869641/Logo_reokih.png" alt="Logo dtmoney">
 </p>
 
 <h1 align="center">Next Level Week 5 - Rocketseat</h1>
