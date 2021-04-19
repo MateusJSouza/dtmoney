@@ -43,11 +43,6 @@
   <img src="https://res.cloudinary.com/dx3vxwusq/image/upload/v1618870594/dtmoney_snzvvq.gif" alt="Gif da aplicação rodando">
 </p>
 
-<p align="center">
-  <a href="https://move-it-mateusj.vercel.app" target="_blank">
-    <img alt="Demo on Vercel" src="https://res.cloudinary.com/dx3vxwusq/image/upload/v1613186216/vercel-deploy_x5v2jc.png">
-  </a>
-
 ## 🚀 Technologies 
 This project was developed by me the following technologies:
 
